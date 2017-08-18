@@ -1,0 +1,7 @@
+c:\users\sebastian\documents\visual studio 2013\Projects\BonitaOrganisationData\BonitaOrganisationData\bin\Debug\BonitaOrganisationData.exe.config
+c:\users\sebastian\documents\visual studio 2013\Projects\BonitaOrganisationData\BonitaOrganisationData\obj\Debug\BonitaOrganisationData.csprojResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2013\Projects\BonitaOrganisationData\BonitaOrganisationData\bin\Debug\BonitaOrganisationData.exe
+c:\users\sebastian\documents\visual studio 2013\Projects\BonitaOrganisationData\BonitaOrganisationData\bin\Debug\BonitaOrganisationData.pdb
+c:\users\sebastian\documents\visual studio 2013\Projects\BonitaOrganisationData\BonitaOrganisationData\bin\Debug\MySql.Data.dll
+c:\users\sebastian\documents\visual studio 2013\Projects\BonitaOrganisationData\BonitaOrganisationData\obj\Debug\BonitaOrganisationData.exe
+c:\users\sebastian\documents\visual studio 2013\Projects\BonitaOrganisationData\BonitaOrganisationData\obj\Debug\BonitaOrganisationData.pdb
